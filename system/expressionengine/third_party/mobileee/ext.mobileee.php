@@ -26,7 +26,7 @@ class Mobileee_ext {
 
 	public $settings = array();
 	public $description = 'Creates global variables for is_mobile, is_phone, is_iphone, is_tablet, & is_ipad and overriders them with cookies based on user prefernces set through the module.';
-	public $docs_url = '';
+	public $docs_url = 'https://github.com/chris-lock/mobileee';
 	public $name = 'MobileEE';
 	public $settings_exist = 'y';
 	public $version	= '1.0';
